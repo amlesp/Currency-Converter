@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="to">To:</string>
+    <string name="result">0.00</string>
+    <string name="convert">convert</string>
+    <string name="from">From:</string>
+    <string name="enter_value">Enter value</string>
+    <string name="no_internet">No internet connection, cached data will be loaded</string>
+    <string name="please_enter_value">Please enter value</string>
+</resources>
